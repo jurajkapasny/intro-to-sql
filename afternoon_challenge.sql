@@ -1,11 +1,11 @@
 -- We are going to work with financial data in this challenge.
 
 -- EXPLORATION
-select * from twm_customer limit 10;
+select * from customer limit 10;
 
-select * from twm_transactions limit 100;
+select * from transactions limit 100;
 
-select * from twm_checking_tran limit 10;
+select * from checking_tran limit 10;
 
 
 
